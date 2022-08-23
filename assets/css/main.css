@@ -187,9 +187,3 @@ a:hover{
     th{
         display: none;
 }
-
-@media (min-height:900px){
-    .content{
-        height: 580px;
-    }
-}
