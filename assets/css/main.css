@@ -147,6 +147,8 @@ a:hover{
         padding: 0.6em;
         overflow-x: hidden;
         overflow-y: scroll;
+        height: 100vh;
+        border-radius: 0%;
     }
 
     .title-item{
